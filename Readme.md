@@ -1,6 +1,5 @@
 # Repaso de Git 
 
-Estamos Reapasando Git
-
-
-otros ajustes
+## Estamos Reapasando Git
+ estamos repasando los comando de git 
+ desde visual studio code
