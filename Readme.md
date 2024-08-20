@@ -1,3 +1,3 @@
 # Repaso de Git 
 
-estamos reapasando git
+Estamos Reapasando Git
